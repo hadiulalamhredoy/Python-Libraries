@@ -1,4 +1,23 @@
-# Python-Libraries
+                            # Python-Libraries
+What  is  Python Library ?  
+Python libraries are collections of pre-written code that help you perform tasks without writing everything from scratch.
+
+Think of a library as a toolbox: instead of building tools yourself, you import a library and use its ready-made functions.
+
+Example without library
+
+numbers = [10, 20, 30]
+total = sum(numbers)
+
+print(total)
+
+
+Here, sum() comes from Python’s built-in functionality.
+import math
+
+print(math.sqrt(25))
+
+
 
 | Library        | Purpose                                              |
 | -------------- | ---------------------------------------------------- |
