@@ -56,3 +56,14 @@ from sklearn.linear_model import LinearRegression
 
 pip install numpy pandas matplotlib seaborn scikit-learn scipy jupyter notebook statsmodels plotly tensorflow keras torch xgboost lightgbm requests beautifulsoup4 selenium
 
+
+
+       # Array Creation Functions
+      np.array(): Converts a Python list, tuple, or sequence into an array.
+
+       import numpy as np
+       arr = np.array([1, 2, 3])
+        print(arr)
+
+        
+
