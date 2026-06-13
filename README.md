@@ -4,10 +4,9 @@ Python libraries are collections of pre-written code that help you perform tasks
 
 Think of a library as a toolbox: instead of building tools yourself, you import a library and use its ready-made functions.
 
-Example without library
-
-numbers = [10, 20, 30]
-total = sum(numbers)
+# Example without library
+# numbers = [10, 20, 30]
+# total = sum(numbers)
 
 print(total)
 
